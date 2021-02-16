@@ -1,0 +1,28 @@
+.search-field {
+  position: relative;
+}
+.search-all-items {
+  position: absolute;
+  top: 5rem;
+  z-index: 99;
+  height: 75vh;
+  overflow-x: hidden;
+  overflow-y: scroll
+}
+
+.search-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.hide-search {
+  display: none;
+}
+
+.show-search {
+  display: block;
+}
+
+.teal {
+  background-color: #FFCC00 !important;
+}

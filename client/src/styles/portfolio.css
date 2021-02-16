@@ -1,0 +1,45 @@
+.head-portfolio {
+  display: flex;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.left-head {
+  display: flex;
+}
+
+.head-item {
+  margin-right: 15px;
+}
+
+.right-head {
+  display: flex;
+  align-items: center;
+}
+
+.yellow-area {
+  text-align: center;
+  border-radius: 40px;
+  background-color: #FFCC00;
+  padding: 0 10px;
+  margin-left: 10px;
+}
+
+.procent {
+  margin-left: 10px;
+}
+
+.left-block {
+  display: flex;
+  flex-direction: column;
+  height: 88vh;
+  overflow: hidden;
+}
+
+.input-field {
+  width: 100%
+}
+
+.select-field {
+  height: 40px;
+}

@@ -1,0 +1,8 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+@import "../src/styles/graph.css";
+@import "../src/styles/itemList.css";
+@import "../src/styles/main.css";
+@import "../src/styles/portfolio.css";
+@import "../src/styles/navbar.css";
+@import "../src/styles/search.css";
+@import "../src/styles/loader.css";

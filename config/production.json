@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "super secret key",
+  "mongoUri": "mongodb+srv://admin:qwerty123@cluster0.doxtr.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "baseUrl": "http://;localhost:5000"
+}

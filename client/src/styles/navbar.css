@@ -1,0 +1,11 @@
+.nav-link .active {
+  text-shadow: 0 0 5px rgb(255, 255, 255);
+}
+
+nav {
+  background-color: #e2e2e2;
+}
+
+nav .brand-logo {
+  color: black
+}
